@@ -34,13 +34,13 @@ javac -d bin src/*.java
 
 java -cp bin Main
 
-*(Replace `Main` with your actual main class name.)*
 
 ---
 
 ## 📁 Project Structure
 
 
+<img width="224" height="245" alt="Screenshot From 2025-12-06 00-22-06" src="https://github.com/user-attachments/assets/e7c74ddd-ca7c-4eee-a018-e87d8adeea9d" />
 
 
 ---
@@ -63,8 +63,13 @@ java -cp bin Main
 
 ---
 ## 📸Screenshots
+<img width="810" height="503" alt="Screenshot From 2025-12-05 23-51-26" src="https://github.com/user-attachments/assets/40c1e757-f10b-4e51-9314-02ee450d6446" />
 
+<img width="810" height="503" alt="Screenshot From 2025-12-05 23-51-39" src="https://github.com/user-attachments/assets/19e99557-e058-44e5-a605-512bcf4984c7" />
 
+<img width="810" height="503" alt="Screenshot From 2025-12-05 23-52-48" src="https://github.com/user-attachments/assets/328c5916-e76f-4e92-9858-71dec5f7afc0" />
+
+<img width="810" height="503" alt="Screenshot From 2025-12-05 23-53-19" src="https://github.com/user-attachments/assets/dc9f8934-a21e-4b92-9f48-b72debc23781" />
 
 ## 👨‍💻 Author
 **Koushik Karmakar**  
